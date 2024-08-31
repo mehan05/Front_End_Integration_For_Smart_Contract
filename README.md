@@ -18,3 +18,4 @@ npm install
 ```bash
 npm run dev
 ```
+### Don't forget to add your private key and sepolia api endpoint
